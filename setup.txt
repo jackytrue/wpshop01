@@ -1,0 +1,3 @@
+dbname: wpshop
+username(db&wp): wpshopadmin
+password(db&wp): wpshopadmin
